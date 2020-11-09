@@ -1,2 +1,2 @@
 # JARVIS
-# I made this AI. Please at]ppreciate it if it is nice
+# I made this AI. Please appreciate it if it is nice.
